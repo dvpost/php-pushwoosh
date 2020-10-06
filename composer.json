@@ -1,5 +1,5 @@
 {
-	"name" : "dvpost/php-pushwoosh",
+	"name" : "gomoob/php-pushwoosh",
 	"description" : "A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.",
 	"license" : "MIT",
 	"type" : "library",
